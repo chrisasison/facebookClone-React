@@ -24,12 +24,12 @@ function Header() {
                 />
                 <div className="header__input">
                     <SearchIcon />
-                    <input type="text" />
+                    <input placeholder="Search Facebook clone" type="text" />
             </div>
             </div>
 
             <div className="header__center">
-                <div className="header__option">
+                <div className="header__option header__option--active">
                     <HomeIcon fontSize="large" />
                 </div>
                 <div className="header__option">
@@ -48,7 +48,7 @@ function Header() {
 
             <div className="header__right">
                 <div className="header__info">
-                    <Avatar />
+                    <Avatar src="https://avatars0.githubusercontent.com/u/69608633?s=460&u=047897434440b6f9d5506353683cf21fd74f73aa&v=4" />
                     <h4>Chris Alexander</h4>
                 </div>
 
