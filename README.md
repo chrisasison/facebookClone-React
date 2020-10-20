@@ -1,4 +1,4 @@
-URL: 
+public/index.html file is not generating proper source code. Unable to populate proper build/index.html. Only way to access app is npm start.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
